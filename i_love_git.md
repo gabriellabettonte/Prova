@@ -16,3 +16,6 @@ science. You will invite them to your repository to let them commit their posts.
 You’re not alone anymore. You’ll have to be sure to get the last version of the blog
 before you commit, and deal with eventual conflicts. Everyone should use a branch
 for their new posts to avoid Chaos…
+
+
+New line
